@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css'; //importing bootstrap css to display the navbar instead of just basic html content
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -7,6 +8,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    // The App component is now rendered within a root - index.js is where the app is run
     <App />
   </React.StrictMode>
 );
