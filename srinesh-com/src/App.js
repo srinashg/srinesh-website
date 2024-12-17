@@ -1,17 +1,22 @@
 import logo from './assets/Megan.png';
 import './App.css';
-import Navbar from './components/navbar';
+import NavigationBar from './components/navbar';
+import HomePage from './components/homepage';
+import ProjectPage from './components/projectpage';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; //routing is used to "route" to the appropriate page based on the URL clicked
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <Router>
+          <NavigationBar />
 
-      <body>
-        <Navbar />
-      </body>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/projects" element={<ProjectPage />} />
+          </Routes>
+      </Router>
+      
     </div>
   );
 }
