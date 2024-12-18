@@ -1,4 +1,3 @@
-import logo from './assets/Megan.png';
 import './App.css';
 import NavigationBar from './components/navbar';
 import HomePage from './components/homepage';
