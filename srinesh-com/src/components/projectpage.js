@@ -1,7 +1,7 @@
 function ProjectPage() {
     const projects = [
       { name: 'Decentralized Banking System', url: 'https://github.com/srinashg/CS4301Project' },
-      { name: 'Paintify', url: 'https://bluestarburst.github.io/sketch-diff/' },
+      { name: 'Paintify', url: 'https://github.com/bluestarburst/sketch-diff' },
       { name: 'Ultimate Tic-Tac-Toe ☀️', url: 'https://github.com/srinashg/TicTacToe' },
       // Add more projects as needed
     ];
