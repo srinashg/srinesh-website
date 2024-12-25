@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5507dca6.css",
-    "main.js": "/static/js/main.96b62588.js",
-    "static/js/488.85abc293.chunk.js": "/static/js/488.85abc293.chunk.js",
-    "static/media/Srinesh.jpg": "/static/media/Srinesh.1c7058c59887d62bac57.jpg",
-    "index.html": "/index.html",
-    "main.5507dca6.css.map": "/static/css/main.5507dca6.css.map",
-    "main.96b62588.js.map": "/static/js/main.96b62588.js.map",
-    "488.85abc293.chunk.js.map": "/static/js/488.85abc293.chunk.js.map"
+    "main.css": "/srinesh-website/static/css/main.5507dca6.css",
+    "main.js": "/srinesh-website/static/js/main.36d2255a.js",
+    "static/js/488.85abc293.chunk.js": "/srinesh-website/static/js/488.85abc293.chunk.js",
+    "static/media/Srinesh.jpg": "/srinesh-website/static/media/Srinesh.1c7058c59887d62bac57.jpg",
+    "index.html": "/srinesh-website/index.html",
+    "main.5507dca6.css.map": "/srinesh-website/static/css/main.5507dca6.css.map",
+    "main.36d2255a.js.map": "/srinesh-website/static/js/main.36d2255a.js.map",
+    "488.85abc293.chunk.js.map": "/srinesh-website/static/js/488.85abc293.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5507dca6.css",
-    "static/js/main.96b62588.js"
+    "static/js/main.36d2255a.js"
   ]
 }
